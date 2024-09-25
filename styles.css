@@ -1,0 +1,9 @@
+body{
+    background-color:black;
+    color: white;
+}
+
+.principal {
+    background-image: url("img/Background.png");
+    height: 100vh;
+}
